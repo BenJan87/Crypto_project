@@ -16,7 +16,7 @@
     - supersingular isogeny
 
 
-## Ktoś inny...
+## Kamil:
 
 - protokoly sike, csidh, sqIsign (ogolne przedstawienie) 
  
@@ -26,6 +26,8 @@
 - kleska protokolu sike, rowniez dotyczy to b-sidh oraz b-sike, wiec zostaje sqisign oraz csidh - czyli skupimy sie na csidh(commutative supersingular isogeny diffie hellmann)
 
     - sytem sike zostal zlamany w sierpniu 22 roku, uzyto do tego twierdzen z konca lat 90, na wydajnym komputerze da sie go zlamac w pare sekund (wersje z krotkim kluczem)
+
+## Ktoś inny...
 
 - (notebook jupyter z uproszczona implementacja protokolu csidh w pythonie) (raczej biblioteka sibc) (supersingular isogeny based cryptographic primitive) 
 
