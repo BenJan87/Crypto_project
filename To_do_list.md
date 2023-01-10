@@ -29,8 +29,7 @@
 
 ## Ktoś inny...
 
-- (notebook jupyter z uproszczona implementacja protokolu csidh w pythonie) (raczej biblioteka sibc) (supersingular isogeny based cryptographic primitive) 
+- (notebook jupyter z uproszczona implementacja protokolu sidh w pythonie) (raczej biblioteka sibc) (supersingular isogeny based cryptographic primitive) 
 
-    - zaglebienie sie w sposob dzialania najbardziej obiecujacego protokolu wykorzystującego izogenie
-    - (notebook bedzie zawieral funkcjonalnosci potrzebne do skonstruowania protokolu i bedzie umozliwial
-   to wykonujacemu) moze
+    - zaglebienie sie w sposob dzialania najprostszego do zrozumienia protokolu wykorzystującego izogenie
+    - notebook bedzie zawieral kod pythona potrzebny do zasymulowania dzialania protkolu sidh - diffie-helmann oraz sike - kryptografia z kluczem publicznym
